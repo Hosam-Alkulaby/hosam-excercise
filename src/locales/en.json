@@ -1,0 +1,30 @@
+{
+    "hello": "Hello!",
+    "welcome": "Welcome to my Vue.js app.",
+    "Invoices":"Invoices",
+    "Filter": "Filter",
+    "New Invoice": "New Invoice",
+    "Home":"Home",
+    "All Invoices":"All Invoices",
+    "Ship To": "Ship To",
+    "Customer": "Customer",
+    "type or click to select":"type or click to select",
+    "Draft":"Draft",
+    "paid":"paid",
+    "unpaid": "unpaid",
+    "from": "from",
+    "To": "To",
+    "Inv_Num": "Inv_Num",
+    "Due": "due",
+    "All": "All",
+    "Last Invoices": "Last Invoices",
+    "View all": "View all",
+    "Date": "Date",
+    "Status": "Status",
+    "paid status": "paid status",
+    "Invoice-Num": "Invoice-Num",
+    "Amount Due": "Amount Due"
+
+    
+}
+  

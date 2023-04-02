@@ -1,0 +1,29 @@
+{
+    "hello": "أهلاً!",
+    "welcome": "مرحباً بك في تطبيق Vue.js الخاص بي.",
+    "Invoices": "الفواتير",
+    "Filter": "تصفية",
+    "New Invoice": "فاتوره جديده",
+    "Home":"الرئيسية",
+    "All Invoices":"جميع الفواتير",
+    "Ship To":"اشحن لي",
+    "Customer":"عميل",
+    "type or click to select": "اكتب او انقر للتحديد",
+    "Draft":"مسوده",
+    "paid": "مدفوع",
+    "unpaid": "عير مدفوع",
+    "from": "من",
+    "Inv_Num": "رقم الفاتوره",
+    "Due": "مستحق",
+    "All": "الكل",
+    "Last Invoices": "اخر فاتوره",
+    "View all": "كل الفواتير",
+    "Date": "التاريخ",
+    "Status": "حالة الفاتوره",
+    "paid status": "حالة الدفع",
+    "Invoice-Num": "رقم الفاتوره",
+    "Amount Due": "المبلغ المستحق"
+    
+    
+}
+  
